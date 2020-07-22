@@ -31,3 +31,12 @@ People who paid more thatn $300 in fare were more likely to survive.
 ![Screenshot](image2.png)
 * The general trend that we can observe is that the more siblings/spouses abroad, the lower chance of survival an individual had. 
 As far as ticket class is concerned, again, the first calss and second class(higher income) had better chance of survival.
+
+![Screenshot](image3.png)
+* Cabin X has the least survivals, however, the majority of travelers stayed in cabin X. Travelers in cabin C, E, D, B and F had more chance of survival.
+
+![Screenshot](image4.png)
+* The chart above again agrees with the observation earlier that women had higher rate of survival in the Titanic shipwreck.
+
+### Conclusion
+After performing parameter tunning on XGBoost, we achieved an accuracy score of 86.6% on test set.
